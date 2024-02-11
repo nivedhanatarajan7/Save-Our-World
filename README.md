@@ -10,7 +10,10 @@ We used technologies such as Unity and the assets included in the Unity asset st
 During the project our group encountered major challenges, but we overcame each obstacle with teamwork and our desire to learn. One of the biggest challenges was that the group had little to no experience with creating VR games or using the Unity platform. This created a large learning curve that had to be rectified within a few hours. However, with the support of various learning resources found online, we were able to learn more about the game development process and how to develop games on Unity. Once we were able to obtain an Oculus VR headset, we had difficulty with setting up the Meta accounts because of certain policies involved with VR accounts; however, we were able to troubleshoot creating the account with teamwork and research on how to set up an account properly. Initially, learning the controls for the VR was another challenge because we had to code interactions for controls we were unfamiliar with; however, we learned how to code the controls remotely, which helped us learn about efficient code deployment processes and how animations and control-based functions work in the C# programming language. We also experience issues with uploading large files to GutHib repositories, and in the process, we learned about the Git Large File System technology, which allows us to upload large files to GitHub (over 100 MB).
 
 ## Credits
-Free Unity Assets:
+Oculus Quest 2
+
+Vision Follower Script: https://gist.github.com/C-Through/efebe45f55953e16b4636a3b857ccee4
+
 Colorable Office Chair: https://assetstore.unity.com/packages/3d/props/furniture/colorable-office-chair-104874
 
 Deep Space Skybox Pack: https://assetstore.unity.com/packages/2d/textures-materials/deep-space-skybox-pack-11056
